@@ -11,3 +11,4 @@ data/processed/
 .DS_Store
 .idea/
 .vscode/
+mlflow.db
